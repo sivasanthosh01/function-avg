@@ -20,6 +20,6 @@ var vasi=sum(68,99,56,60,63);
 document.write("vasi Average is :"+vasi+"<br>");
 
 var kohli=sum(99,100,91,100,100);
-document.write("vasi Average is :"+kohli+"<br>");
+document.write("kohli Average is :"+kohli+"<br>");
 
 
